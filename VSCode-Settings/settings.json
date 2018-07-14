@@ -1,0 +1,9 @@
+{
+    "window.zoomLevel": 0,
+    "terminal.integrated.shell.windows": "cmd.exe",
+    "terminal.integrated.shellArgs.windows": [
+        "/k",
+        "%CMDER_ROOT%\\vendor\\init.bat"
+    ],
+    "window.menuBarVisibility": "toggle"
+}
